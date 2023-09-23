@@ -10,18 +10,18 @@
     "test evening"
   ]
   "....-01-01": [
-		"Happy new year!"
+    "Happy new year!"
 	]
   day_sunny: [
-			"test sunny"
+   "test sunny"
 	],
-	snow: [
-			"test snow"
+  snow: [
+   "test snow"
   ],
-	rain: [
-			"test rain"
+  rain: [
+   "test rain"
 	]
   "....-07-03": [
-		"Happy Birthday Cathy!"
+   "Happy Birthday Cathy!"
 	]
 }
