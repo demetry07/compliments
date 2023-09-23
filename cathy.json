@@ -12,13 +12,13 @@
   "....-01-01": [
     "Happy new year!"
   ],
-  day_sunny: [
+  "day_sunny": [
    "test sunny"
   ],
-  snow: [
+  "snow": [
    "test snow"
   ],
-  rain: [
+  "rain": [
    "test rain"
   ],
 }
