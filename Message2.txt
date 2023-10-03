@@ -1,0 +1,5 @@
+{
+    result: {
+        currentText: 'This is test text 10/2/2023 Message 2'
+    }
+},
